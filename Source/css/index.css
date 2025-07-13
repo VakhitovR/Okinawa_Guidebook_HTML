@@ -1,0 +1,18 @@
+.container {
+    margin-top: 55px;
+    margin-bottom: 55px;
+}
+
+.col-lg-8 {
+    border-radius: 100%;
+    padding: 75px;
+    font-size: 16px;
+    background-color: rgba(255, 255, 255, 0.301);
+    background-image: repeating-linear-gradient(-45deg, transparent, transparent 2px, rgba(155, 155, 155, 0.228) 2px, rgba(155, 155, 155, 0.1) 4px);
+}
+
+.small_foto_link {
+    border-radius: 100%;
+    width: 159px;
+    height: 159px;
+}

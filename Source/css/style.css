@@ -1,0 +1,67 @@
+body {
+    font-family: Michroma, serif;
+    background: linear-gradient(90deg, rgb(255, 220, 90) 0%, rgb(255, 145, 77) 100%);
+}
+
+.navbar,
+.dropdown-menu {
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+a {
+    text-decoration: none;
+    color: green;
+}
+
+p {
+    color: green;
+}
+
+.nav-link {
+    color: green;
+    font-size: 20px;
+}
+
+.nav-item {
+    padding-right: 25px;
+}
+
+.navbar-nav .nav-link.active {
+    color: rgb(115, 210, 175);
+}
+
+.navbar-brand img {
+    width: 40px;
+}
+
+.dropdown-item:hover {
+    background-color: rgb(255, 145, 77);
+}
+
+#lan_en_jp {
+    justify-content: right;
+}
+
+#navbarNavDropdown {
+    justify-content: space-between;
+}
+
+ul {
+    list-style: none;
+    margin: 0%;
+}
+
+footer {
+    background-color: rgba(255, 255, 255, 0.5);
+
+}
+
+footer .sns {
+    margin-bottom: 20px;
+    justify-content: center;
+    text-align: center;
+}
+
+footer p {
+    margin: 0%;
+}

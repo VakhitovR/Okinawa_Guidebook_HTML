@@ -1,0 +1,20 @@
+.card {
+    border: solid;
+    border-color: green;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.btn {
+    background: linear-gradient(green, white, red);
+    color: black;
+}
+
+.pkoto {
+    width: 90%;
+    margin: 5%;
+    height: 200px;
+}
+
+.card-body {
+    text-align: center;
+}
